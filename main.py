@@ -15,6 +15,7 @@ def main():
     Returns:
         None
     """
+    
         def _read_system_meta(system_meta_file_path):
         """Read the specified file for loading a map of
 
